@@ -36,13 +36,14 @@
 ### 🔥 Statistiques GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Eyss&show_icons=true&theme=dracula" alt="Stats Eyss" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eyss&theme=dracula" alt="Streak Eyss" />
+  <img src="https://github-readme-stats.vercel.app/api?username=EyssDev&show_icons=true&theme=dracula" alt="Stats Eyss" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EyssDev&theme=dracula" alt="Streak Eyss" />
 </p>
 
 ---
 
 <p align="center">⚡️ Powered by passion, code, and creativity</p>
+
 ### <p align="center">👀 &nbsp;Visitors</p>
 <br>
 <p align="center">
