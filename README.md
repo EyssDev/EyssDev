@@ -12,7 +12,7 @@
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
-
+![C++](https://img.shields.io/badge/-C++-blue?logo=cplusplus)
 ---
 
 ### 🧩 Projets clés
@@ -20,9 +20,6 @@
 #### 🔹 Evoludio
 > 🚀 Création de bases FiveM sur mesure & solutions professionnelles pour serveurs
 
-#### 🔹 Nightmare (Horror Game) WIP
-> 🕹️ Jeu multijoueur d’horreur coopératif sur FiveM.
-> 
 #### 🔹 ZoneA (Serveur whitelist RP) Close
 > 🧟 Serveur roleplay whitelist apocalypse.
 
