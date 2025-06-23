@@ -1,7 +1,7 @@
-<h1 align="center">Hi, im Eyss 👋</h1>
+<h1 align="center">Hi, I'm Eyss 👋</h1>
 
 <p align="center">
-  🔧 Développeur & fondateur de <a href="https://evoludio.net" target="_blank"><strong>Evoludio</strong></a><br>
+  🔧 Développeur & fondateur de <a href="https://tcheckit.fr" target="_blank"><strong>T'Check It</strong></a><br>
 </p>
 
 ### 🛠️ Compétences principales
@@ -13,24 +13,24 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-blue?logo=cplusplus)
+
 ---
 
 ### 🧩 Projets clés
 
-#### 🔹 Evoludio
-> 🚀 Création de bases FiveM sur mesure & solutions professionnelles pour serveurs
+#### 🔹 T'Check It
+> 🚀 Solution innovante de gestion d'accès et de caisse connectée avec badge RFID pour entreprises
 
-#### 🔹 ZoneA (Serveur whitelist RP) Close
-> 🧟 Serveur roleplay whitelist apocalypse.
+#### 🔹 Evoludio (Stand By)
+> 🎮 Studio de developpement pour serveurs GTA RP
 
 ---
 
 ### 📫 Me contacter
 
-- 📬 Mail : [contact@evoludio.net](mailto:contact@evoludio.net)
-- 🌐 Site : [evoludio.net](https://evoludio.net)
-- 💬 Discord : [discord.evoludio.net](https://discord.evoludio.net)
-
+- 📬 Mail : [contact@tcheckit.fr](mailto:contact@tcheckit.fr)
+- 🌐 Site : [tcheckit.fr](https://tcheckit.fr)
+- 
 ---
 
 ### 🔥 Statistiques GitHub
