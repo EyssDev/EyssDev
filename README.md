@@ -1,10 +1,10 @@
 <h1 align="center">Hi, I'm Eyss 👋</h1>
 
 <p align="center">
-  🔧 Développeur & fondateur de <a href="https://tcheckit.fr" target="_blank"><strong>T'Check It</strong></a><br>
+  🔧 Developer & founder of <a href="https://tcheckit.fr" target="_blank"><strong>T'Check It</strong></a><br>
 </p>
 
-### 🛠️ Compétences principales
+### 🛠️ Core Skills
 
 ![Lua](https://img.shields.io/badge/-Lua-000?style=flat&logo=lua&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
@@ -16,27 +16,24 @@
 
 ---
 
-### 🧩 Projets clés
+### 🧩 Key Projects
 
 #### 🔹 T'Check It
-> 🚀 Solution innovante de gestion d'accès et de caisse connectée avec badge RFID pour entreprises
-
-#### 🔹 Evoludio (Stand By)
-> 🎮 Studio de developpement pour serveurs GTA RP
+> 🚀 Innovative access and payment management solution using RFID badges for businesses
 
 ---
 
-### 📫 Me contacter
+### 📫 Contact Me
 
-- 📬 Mail : [contact@tcheckit.fr](mailto:contact@tcheckit.fr)
-- 🌐 Site : [tcheckit.fr](https://tcheckit.fr)
-- 
+- 📬 Email: [contact@tcheckit.fr](mailto:contact@tcheckit.fr)
+- 🌐 Website: [tcheckit.fr](https://tcheckit.fr)
+
 ---
 
-### 🔥 Statistiques GitHub
+### 🔥 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EyssDev&show_icons=true&theme=dracula" alt="Stats Eyss" />
+  <img src="https://github-readme-stats.vercel.app/api?username=EyssDev&show_icons=true&theme=dracula" alt="Eyss's GitHub Stats" />
 </p>
 
 ---
