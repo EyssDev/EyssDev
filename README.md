@@ -24,12 +24,8 @@
 ### 🧩 Featured Projects
 
 #### 🔹 [T'Check It (Cashless)](https://tcheckit.fr)
-> 🚀 Cashless payment & access management system using RFID badges.  
+> 🚀 Cashless payment & access management system using NFC badges.  
 > Streamlines transactions, access control, and real-time tracking for events and businesses.
-
-#### 🔹 [T'Check It Bands](https://bands.tcheckit.fr)
-> 🎨 Fully customizable bracelets for events and personal use.  
-> Users can design their own bracelets online, order and pay seamlessly.
 
 ---
 
