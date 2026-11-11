@@ -1,66 +1,62 @@
-<div align="center">
-# Eyss
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg">
+  <img alt="Eyss — Développeur full-stack, fondateur de FOKZS" src="./assets/banner-light.svg" width="100%">
+</picture>
+<p align="center">
+  <a href="https://fokzs.com"><b>fokzs.com</b></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="mailto:contact@fokzs.com"><b>contact@fokzs.com</b></a>
+</p>
+<br>
+## À propos
  
-**Développeur full-stack · Fondateur de [FOKZS](https://fokzs.com)**
+Je dirige **FOKZS**, un studio de développement qui conçoit, développe et maintient des sites, des applications mobiles et des plateformes métier pour les entreprises, du premier échange à la mise en production.
  
-Conception, développement et maintenance d'applications web, mobiles et de plateformes métier.
-Basé à Dunkerque, France.
+Au sein de FOKZS, je développe **T'Check It** : une solution de paiement cashless (NFC / QR code), de contrôle d'accès et de gestion de caisse pour les bars, clubs, festivals et associations sportives.
  
-[![Site](https://img.shields.io/badge/fokzs.com-0A0A0A?style=flat-square&logo=googlechrome&logoColor=white)](https://fokzs.com)
-[![Contact](https://img.shields.io/badge/contact@fokzs.com-0A0A0A?style=flat-square&logo=maildotru&logoColor=white)](mailto:contact@fokzs.com)
-[![GitHub](https://img.shields.io/badge/@EyssDev-0A0A0A?style=flat-square&logo=github&logoColor=white)](https://github.com/EyssDev)
+<br>
+## Stack
  
-</div>
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,react,nextjs,vue,threejs,laravel,php,postgres,prisma,docker,linux,git&theme=dark">
+  <img alt="TypeScript, React, Next.js, Vue, Three.js, Laravel, PHP, PostgreSQL, Prisma, Docker, Linux, Git" src="https://skillicons.dev/icons?i=ts,react,nextjs,vue,threejs,laravel,php,postgres,prisma,docker,linux,git&theme=light">
+</picture>
+<sub>Mobile avec React Native & Expo · Paiement avec Stripe · Hébergement sur VPS (OVH, CloudPanel)</sub>
  
-### À propos
+<br>
+## Projets
  
-Je dirige **FOKZS**, un studio de développement qui accompagne les entreprises de la conception à la mise en production : sites vitrines, applications mobiles, plateformes SaaS et outils internes, avec un suivi et une maintenance dans la durée.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>T'Check It PDA</h3>
+      <p>Application mobile pour les caissiers et les opérateurs de contrôle d'accès : encaissement NFC / QR et validation des entrées.</p>
+      <sub>React Native · Expo · TypeScript</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>T'Check It Cup</h3>
+      <p>Plateforme de gestion de tournois : inscriptions, tableaux, résultats et suivi des événements.</p>
+      <sub>Next.js · TypeScript</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>T'Check It Darts</h3>
+      <p>Application web progressive de comptage de fléchettes en temps réel, pensée pour les bars et les compétitions.</p>
+      <sub>PWA · TypeScript</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Espace client FOKZS</h3>
+      <p>Tableau de bord client : état et disponibilité des services, demandes de support, devis et factures.</p>
+      <sub>Next.js · PostgreSQL · Prisma</sub>
+    </td>
+  </tr>
+</table>
+<sub>La plupart des projets clients sont hébergés dans des dépôts privés. Démonstrations disponibles sur demande.</sub>
  
-Au sein de FOKZS, je pilote **T'Check It**, une solution de paiement cashless (NFC / QR code), de contrôle d'accès et de gestion de caisse destinée aux bars, clubs, festivals et associations sportives.
+<br>
+## Travaillons ensemble
  
-Je travaille sur l'ensemble de la chaîne : architecture, interfaces, back-end, infrastructure et déploiement.
- 
----
- 
-### Expertise
- 
-| Domaine | Technologies |
-|:--|:--|
-| **Mobile** | React Native, Expo, TypeScript |
-| **Front-end** | Next.js, React, Vue.js, Three.js |
-| **Back-end** | Node.js, Laravel, Prisma, API REST |
-| **Données** | PostgreSQL, MySQL |
-| **Paiement** | Stripe, paiement NFC / QR |
-| **Infrastructure** | Docker, VPS Linux, CloudPanel, OVH, CI/CD |
- 
----
- 
-### Projets principaux
- 
-**T'Check It — Écosystème cashless**
-Plateforme de paiement sans espèces et de contrôle d'accès pour l'événementiel et le monde associatif.
-- **PDA** — application mobile pour caissiers et opérateurs de contrôle d'accès (React Native, Expo)
-- **Cup** — plateforme de gestion de tournois et d'événements (Next.js)
-- **Darts** — application web progressive de comptage de fléchettes en temps réel
-**FOKZS — Espace client**
-Tableau de bord permettant aux clients de suivre l'état et la disponibilité de leurs services, d'ouvrir des demandes et de consulter devis et factures (Next.js, PostgreSQL, Prisma).
- 
-> La majorité des projets clients sont hébergés dans des dépôts privés. Démonstrations disponibles sur demande.
- 
----
- 
-### Activité
- 
-<div align="center">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=EyssDev&show_icons=true&hide_border=true&hide_title=true&theme=default&bg_color=00000000&count_private=true" alt="Statistiques GitHub" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EyssDev&layout=compact&hide_border=true&bg_color=00000000" alt="Langages principaux" />
-</div>
----
- 
-<div align="center">
-**Un projet de site, d'application ou de solution cashless ?**
-[contact@fokzs.com](mailto:contact@fokzs.com) · [fokzs.com](https://fokzs.com)
- 
-</div>
+Un site, une application ou une solution de paiement cashless à mettre en place ?
+Écrivez-moi à **[contact@fokzs.com](mailto:contact@fokzs.com)** ou rendez-vous sur **[fokzs.com](https://fokzs.com)**.
  
