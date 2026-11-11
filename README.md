@@ -1,81 +1,66 @@
-<h1 align="center">Eyss</h1>
-
-<p align="center">
-  Developer & Founder of 
-  <a href="https://tcheckit.fr" target="_blank"><strong>T'Check It</strong></a> 
-</p>
-
+<div align="center">
+# Eyss
+ 
+**Développeur full-stack · Fondateur de [FOKZS](https://fokzs.com)**
+ 
+Conception, développement et maintenance d'applications web, mobiles et de plateformes métier.
+Basé à Dunkerque, France.
+ 
+[![Site](https://img.shields.io/badge/fokzs.com-0A0A0A?style=flat-square&logo=googlechrome&logoColor=white)](https://fokzs.com)
+[![Contact](https://img.shields.io/badge/contact@fokzs.com-0A0A0A?style=flat-square&logo=maildotru&logoColor=white)](mailto:contact@fokzs.com)
+[![GitHub](https://img.shields.io/badge/@EyssDev-0A0A0A?style=flat-square&logo=github&logoColor=white)](https://github.com/EyssDev)
+ 
+</div>
 ---
-
-## Tech Stack
-
-<p align="center">
-  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
-  <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000" />
-  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=000" />
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" />
-  <img alt="Lua" src="https://img.shields.io/badge/Lua-000?style=flat&logo=lua&logoColor=white" />
-</p>
-
+ 
+### À propos
+ 
+Je dirige **FOKZS**, un studio de développement qui accompagne les entreprises de la conception à la mise en production : sites vitrines, applications mobiles, plateformes SaaS et outils internes, avec un suivi et une maintenance dans la durée.
+ 
+Au sein de FOKZS, je pilote **T'Check It**, une solution de paiement cashless (NFC / QR code), de contrôle d'accès et de gestion de caisse destinée aux bars, clubs, festivals et associations sportives.
+ 
+Je travaille sur l'ensemble de la chaîne : architecture, interfaces, back-end, infrastructure et déploiement.
+ 
 ---
-
-## Expertise
-
-- Full-stack web development (Laravel + React)
-- Mobile application development
-- Custom systems and dashboards
-- Payment integration and e-commerce
-- RFID / NFC / IoT systems and real-time interactions
-- Scalable and secure architectures
-
+ 
+### Expertise
+ 
+| Domaine | Technologies |
+|:--|:--|
+| **Mobile** | React Native, Expo, TypeScript |
+| **Front-end** | Next.js, React, Vue.js, Three.js |
+| **Back-end** | Node.js, Laravel, Prisma, API REST |
+| **Données** | PostgreSQL, MySQL |
+| **Paiement** | Stripe, paiement NFC / QR |
+| **Infrastructure** | Docker, VPS Linux, CloudPanel, OVH, CI/CD |
+ 
 ---
-
-## Featured Project
-
-### T'Check It
-https://tcheckit.fr
-
-Cashless payment and access management system using NFC badges.  
-Designed for events and businesses to handle payments, user management and real-time operations.
-
+ 
+### Projets principaux
+ 
+**T'Check It — Écosystème cashless**
+Plateforme de paiement sans espèces et de contrôle d'accès pour l'événementiel et le monde associatif.
+- **PDA** — application mobile pour caissiers et opérateurs de contrôle d'accès (React Native, Expo)
+- **Cup** — plateforme de gestion de tournois et d'événements (Next.js)
+- **Darts** — application web progressive de comptage de fléchettes en temps réel
+**FOKZS — Espace client**
+Tableau de bord permettant aux clients de suivre l'état et la disponibilité de leurs services, d'ouvrir des demandes et de consulter devis et factures (Next.js, PostgreSQL, Prisma).
+ 
+> La majorité des projets clients sont hébergés dans des dépôts privés. Démonstrations disponibles sur demande.
+ 
 ---
-
-## About
-
-Developer focused on building clean, scalable and efficient applications.  
-I work on both technical systems and user-facing products, with a strong attention to performance and design.
-
+ 
+### Activité
+ 
+<div align="center">
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=EyssDev&show_icons=true&hide_border=true&hide_title=true&theme=default&bg_color=00000000&count_private=true" alt="Statistiques GitHub" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EyssDev&layout=compact&hide_border=true&bg_color=00000000" alt="Langages principaux" />
+</div>
 ---
-
-## Contact
-
-<p align="center">
-  <a href="mailto:contact@tcheckit.fr">
-    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://tcheckit.fr">
-    <img alt="Website" src="https://img.shields.io/badge/Website-000?style=flat&logo=google-chrome&logoColor=white" />
-  </a>
-  <a href="https://github.com/EyssDev">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EyssDev&show_icons=true&theme=dracula" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EyssDev&layout=compact&theme=dracula" />
-</p>
-
----
-
-<p align="center">
-  Building reliable systems and modern applications
-</p>
+ 
+<div align="center">
+**Un projet de site, d'application ou de solution cashless ?**
+[contact@fokzs.com](mailto:contact@fokzs.com) · [fokzs.com](https://fokzs.com)
+ 
+</div>
+ 
